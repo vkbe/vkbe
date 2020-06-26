@@ -50,12 +50,12 @@ a {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   text-decoration: none;
-  color: #f56363;
+  color: #bce13b;
 }
 a:hover, a:focus {
   text-decoration: none;
   outline: 0 !important;
-  color: #f56363;
+  color: #bce13b;
 }
 
 button {
@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 hr.separator {
-  border-top: 1px solid #f56363;
+  border-top: 1px solid #bce13b;
   margin: 10px auto;
   width: 80px;
 }
@@ -141,7 +141,7 @@ hr.separator {
   line-height: 30px;
 }
 .center-title i {
-  color: #f56363;
+  color: #bce13b;
   font-size: 30px;
   margin-bottom: 20px;
   display: block;
@@ -173,7 +173,7 @@ hr.separator {
 }
 
 .btn-skin {
-  background-color: #f56363;
+  background-color: rgba(0,0,0,0.2);
   color: #fff;
 }
 .btn-skin:hover, .btn-skin:focus {
@@ -187,7 +187,7 @@ hr.separator {
 }
 .btn-dark:hover, .btn-dark:focus {
   color: #fff;
-  background-color: #f56363;
+  background-color: #bce13b;
 }
 
 .btn-default {
@@ -251,7 +251,7 @@ hr.separator {
   font-weight: 500;
 }
 .header-v1 .navbar-nav > li > a:hover {
-  color: #f56363;
+  color: #bce13b;
 }
 
 .header-v1.sticky .navbar-nav > li > a {
@@ -259,12 +259,12 @@ hr.separator {
 }
 
 .header-v1 .navbar-nav > .active > a, .header-v1 .navbar-nav > .active > a:focus, .header-v1 .navbar-nav > .active > a:hover {
-  color: #f56363;
+  color: #bce13b;
   background-color: transparent;
 }
 
 .header-v1.sticky .navbar-nav > .active > a, .header-v1.sticky .navbar-nav > .active > a:focus, .header-v1.sticky .navbar-nav > .active > a:hover {
-  color: #f56363;
+  color: #bce13b;
   background-color: transparent;
 }
 
@@ -299,7 +299,7 @@ hr.separator {
   }
 
   .navbar-right li.button-nav a {
-    background-color: #f56363;
+    background-color: #bce13b;
     color: #fff;
     padding: 8px 15px;
     margin-top: 12px;
@@ -326,7 +326,7 @@ hr.separator {
   background-color: #fff;
 }
 .header-v2 .navbar-brand {
-  color: #f56363;
+  color: #bce13b;
   font-size: 30px;
   line-height: 25px;
   font-weight: 700;
@@ -341,7 +341,7 @@ hr.separator {
   font-size: 30px;
 }
 .header-v2 .socials li a:hover {
-  color: #f56363;
+  color: #bce13b;
 }
 
 .header-v2 .navbar-nav > li > a {
@@ -352,7 +352,7 @@ hr.separator {
 }
 
 .header-v2 .navbar-nav > .active > a, .header-v2 .navbar-nav > .active > a:focus, .header-v2 .navbar-nav > .active > a:hover {
-  color: #f56363;
+  color: #bce13b;
   background-color: transparent;
 }
 
@@ -432,7 +432,7 @@ hr.separator {
   margin-top: 25px;
 }
 .price-box .price {
-  color: #f56363;
+  color: #bce13b;
   font-size: 70px;
   line-height: 70px;
   font-weight: 900;
@@ -450,7 +450,7 @@ hr.separator {
   margin-bottom: 30px;
 }
 .price-box:hover {
-  background-color: #f56363;
+  background-color: #bce13b;
 }
 .price-box:hover h3 {
   color: #fff;
@@ -515,10 +515,10 @@ hr.separator {
   margin: 10px auto;
 }
 .tabs-navigation li.active a {
-  color: #f56363;
+  color: #bce13b;
 }
 .tabs-navigation li.active a span {
-  color: #f56363;
+  color: #bce13b;
   background-color: transparent;
 }
 
