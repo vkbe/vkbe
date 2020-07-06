@@ -134,7 +134,7 @@ hr.separator {
   font-weight: 900;
   font-size: 36px;
   margin-bottom: 15px;
-  color: #000;
+  color: #4d4d4d;
 }
 .center-title p {
   font-size: 15px;
@@ -530,6 +530,7 @@ hr.separator {
 .footer {
   background-color: #323a45;
   padding-top: 60px;
+  isolation: isolate;
 }
 .footer h2 {
   color: #fff;
@@ -569,7 +570,7 @@ hr.separator {
   font-size: 30px;
 }
 .footer ul.list-inline li:hover i {
-  color: #f56363;
+  color: #bce13b;
 }
 .footer .footer-bottom {
   padding-top: 40px;
@@ -582,7 +583,7 @@ hr.separator {
   text-transform: uppercase;
 }
 .footer .footer-bottom .list-inline li a:hover {
-  color: #f56363;
+  color: #bce13b;
 }
 .footer .footer-bottom span {
   color: rgba(255, 255, 255, 0.8);
@@ -742,7 +743,7 @@ hr.separator {
   margin-bottom: 15px;
 }
 .feature-box h3 {
-  color: #000;
+  color: #333;
   font-size: 20px;
   font-weight: 400;
   text-transform: capitalize;
