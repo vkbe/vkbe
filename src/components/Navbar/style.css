@@ -1,0 +1,12 @@
+.navbar {
+    position: relative;
+    background-color: #777;
+}
+
+.navbar-brand {
+    /* position: absolute; */
+    height: 50px;
+    width: 100px;
+    /* display: block; */
+}
+
